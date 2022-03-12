@@ -4,5 +4,3 @@ I'm a Bioinformatician, Pipeline architect, Tidyverse enthusiast, Full stack eng
 
 
 ![danloos's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlooo&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlooo&theme=dark)
