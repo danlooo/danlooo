@@ -4,20 +4,15 @@
 [![](https://img.shields.io/badge/LinkedIn-danlooo-%232664a9)](https://www.linkedin.com/in/danlooo)
 [![](https://img.shields.io/badge/ORCiD-0000--0002--4024--4443-%23a5cd39)](https://orcid.org/0000-0002-4024-4443)
 
-I'm a Data Scientist, Bioinformatician and full stack software engineer
+I'm a data scientist, bioinformatician and a full stack software engineer.
 
 ### My languages
 
-- [R](https://www.r-project.org/)
-- [Python](https://www.python.org/)
-- [Julia](https://julialang.org/)
+[R](https://www.r-project.org/) | [Python](https://www.python.org/) | [Julia](https://julialang.org/)
 
 ### My stack
 
-- [R Tidyverse](https://www.tidyverse.org/)
-- [nextflow](https://www.nextflow.io/)
-- [Docker](https://www.docker.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+[R Tidyverse](https://www.tidyverse.org/) | [nextflow](https://www.nextflow.io/) | [Docker](https://www.docker.com/) | [Visual Studio Code](https://code.visualstudio.com/)
 
 ![danloos's GitHub stats](https://github-readme-stats.vercel.app/api?username=danlooo&theme=dark&show_icons=true)
 
