@@ -15,3 +15,16 @@ I'm a data scientist, bioinformatician and a full stack software engineer.
 [R Tidyverse](https://www.tidyverse.org/) | [nextflow](https://www.nextflow.io/) | [Docker](https://www.docker.com/) | [Visual Studio Code](https://code.visualstudio.com/)
 
 <a href="https://stackoverflow.com/users/16853114/danlooo"><img src="https://stackoverflow.com/users/flair/16853114.png" width="208" height="58" alt="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+### My projects
+
+Main contributor and maintainer: 
+- [bioinformatics-leibniz-hki/DAnIEL](https://github.com/bioinformatics-leibniz-hki/DAnIEL): A webserver for fungal amplicon analysis
+- [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
+- [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
+- [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
+
+Other contributions:
+
+- [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil): Fix binaries of the C++ project [DGGRID](https://github.com/sahrk/DGGRID)
+- [ropensci-books/targets](https://github.com/ropensci-books/targets): Fix documentation of the R project [targets](https://github.com/ropensci/targets)
