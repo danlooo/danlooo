@@ -23,6 +23,7 @@ Main contributor and maintainer:
 - [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
 - [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
 - [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
+- [danlooo/spotify-datasci](https://github.com/danlooo/spotify-datasci): Predicting the genre of songs using Deep Learning 
 
 Other contributions:
 
