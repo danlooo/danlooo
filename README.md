@@ -21,6 +21,7 @@ I'm a data scientist, bioinformatician and a full stack software engineer.
 Main contributor and maintainer: 
 - [bioinformatics-leibniz-hki/DAnIEL](https://github.com/bioinformatics-leibniz-hki/DAnIEL): A webserver for fungal amplicon analysis
 - [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
+- [danlooo/DSSG.jl](https://github.com/danlooo/DGGS.jl): Discrete Global Gridsystem in Julia
 - [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
 - [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
 - [danlooo/spotify-datasci](https://github.com/danlooo/spotify-datasci): Predicting the genre of songs using Deep Learning 
