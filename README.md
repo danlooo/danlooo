@@ -6,6 +6,10 @@
 
 I'm a data scientist, bioinformatician and a full stack software engineer.
 
+### Statistics
+
+![](https://raw.githubusercontent.com/danlooo/danlooo/main/github-metrics.svg)
+
 ### My languages
 
 [R](https://www.r-project.org/) | [Python](https://www.python.org/) | [Julia](https://julialang.org/)
