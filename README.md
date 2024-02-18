@@ -10,14 +10,6 @@ I'm a data scientist, bioinformatician and a full stack software engineer.
 
 ![](https://raw.githubusercontent.com/danlooo/danlooo/main/github-metrics.svg)
 
-### My languages
-
-[R](https://www.r-project.org/) | [Python](https://www.python.org/) | [Julia](https://julialang.org/)
-
-### My stack
-
-[R Tidyverse](https://www.tidyverse.org/) | [nextflow](https://www.nextflow.io/) | [Docker](https://www.docker.com/) | [Visual Studio Code](https://code.visualstudio.com/)
-
 <a href="https://stackoverflow.com/users/16853114/danlooo"><img src="https://stackoverflow.com/users/flair/16853114.png" width="208" height="58" alt="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### My projects
