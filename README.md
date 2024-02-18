@@ -10,10 +10,6 @@ I'm a data scientist and full stack software engineer for satellite data 🌍 wh
 
 ![](https://raw.githubusercontent.com/danlooo/danlooo/main/github-metrics.svg)
 
-### My Stackoverflow
-
-<a href="https://stackoverflow.com/users/16853114/danlooo"><img src="https://stackoverflow.com/users/flair/16853114.png" width="208" height="58" alt="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for danlooo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ### My projects
 
 Main contributor and maintainer: 
