@@ -481,8 +481,8 @@
                                     </div>
                                     <div class="body markdown">
                                         Use ! to invert a condition:
-                                        <code class="language-multiline" xml:space="preserve">df &lt;- df %&gt;% 
-  filter(! ID %in% vector)</code>
+                                        <code class="language-multiline" xml:space="preserve">
+<span class="token trimmed">(2 more lines were trimmed)</span></code>
                                     </div>
                                     <div class="infos">
                                         <div>
@@ -540,7 +540,9 @@
                                     </div>
                                     <div class="body markdown">
                                         Is has something to to with operator affinity which determines the order of evaluation. Like math, parenthesis have a higher priority than multiplications with have a higher priority than plus and minus. The second part of the expression will never get evaluated and thus ignored resulting in 1 e.g.
-                                        <code>if(TRUE){1}else{0} + message("I'll never get printed")</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         . Including the parenthesis will force to first evaluate both parts seperatley and then do the plus resulting in 2.
                                     </div>
                                     <div class="infos">
@@ -603,21 +605,30 @@
                                         I want to utilize the R package targets to call shell commands and read results, e.g. the exit code into a new target. The commands are organized as a tibble with metadata attached to them. Currently, I have a workflow which runs the command of each row.
 However, if I delete one of the output file, the corresponding sub-target won't be recreated but just skipped. Note that this is required, because the output file content is intentionally not stored in the target R object.
 In order to solve this issue, one needs to insert a new target with
-                                        <code>tar_target(format = "file")</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         for each row of the commands table. I can not simply let the function
-                                        <code>call_shell</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         return the filename as a character vector, because I need to join metadata downstream, e.g. doing
-                                        <code>calls %&gt;% left_join(commands)</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         .
 I've read the targetopia contributing page. Unfortunately, I am unable to expand the factory example with dynamic branching.
 This is my
-                                        <code>_targets.R</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         file:
-                                        <code class="language-multiline" xml:space="preserve">library(tidyverse)
-library(targets)
-<span class="token trimmed">(36 more lines were trimmed)</span></code>
+                                        <code class="language-multiline" xml:space="preserve">
+<span class="token trimmed">(38 more lines were trimmed)</span></code>
                                         How can I create a function
-                                        <code>tar_target_shell</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         so that this will create two targets: one for the exit codes and one to track potentially missing output files?
                                     </div>
                                     <div class="infos">
@@ -682,20 +693,25 @@ library(targets)
                                     </div>
                                     <div class="body markdown">
                                         I want to use Traefik v2.5 as a local reverse proxy to access all docker containers of my local daemon using a domain of pattern
-                                        <code>http://container_name.localhost</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         in my browser.
 This is my
-                                        <code>docker-compose.yml</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         file:
-                                        <code class="language-multiline" xml:space="preserve">version: "3.7"
-services:
-<span class="token trimmed">(16 more lines were trimmed)</span></code>
+                                        <code class="language-multiline" xml:space="preserve">
+<span class="token trimmed">(18 more lines were trimmed)</span></code>
                                         Then I started the container and a simple web server to see if it worked:
-                                        <code class="language-multiline" xml:space="preserve">docker-compose up -d
-docker run -d --name my_nginx nginx</code>
+                                        <code class="language-multiline" xml:space="preserve">
+<span class="token trimmed">(2 more lines were trimmed)</span></code>
                                         Then, I was able to access the web server at http://my-nginx.docker.localhost/. However, the name of the docker container uses underscores and not hyphens. This makes it very confusing if you just want to access one of your containers in the browser. Therefore, I want to access the container using http://my_nginx.localhost/. Is there a way to disable the normalization of the traefik rule? 
 I am aware that one normally uses hyphens in URLs, but docker just wants to have it's underscores, and this is just my local dev environment. I also do not want to add a traefik label manually, e.g.
-                                        <code>traefik.http.routers.my_nginx.rule==Host(`my_nginx.localhost`)</code>
+                                        <code>
+                                            <span class="token trimmed">(1 more line was trimmed)</span>
+                                        </code>
                                         whenever I start a simple dev container.
                                     </div>
                                     <div class="infos">
@@ -744,7 +760,7 @@ I am aware that one normally uses hyphens in URLs, but docker just wants to have
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2024, 18:14:03 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2024, 18:24:15 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
