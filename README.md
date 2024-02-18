@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-danlooo-%232664a9)](https://www.linkedin.com/in/danlooo)
 [![](https://img.shields.io/badge/ORCiD-0000--0002--4024--4443-%23a5cd39)](https://orcid.org/0000-0002-4024-4443)
 
-I'm a data scientist, bioinformatician and a full stack software engineer.
+I'm a data scientist and full stack software engineer for satellite data 🌍 who did a PhD in bioinformatics about microbial genetics 🍄.
 
 ### Statistics
 
