@@ -40,8 +40,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_limit: 0
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 0
-          plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 16853114
