@@ -29,8 +29,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
-          plugin_followup: yes
-          plugin_followup_archived: yes
+          plugin_followup: no
+          plugin_followup_archived: no
           plugin_followup_sections: repositories
           plugin_notable: yes
           plugin_notable_from: organization
@@ -41,6 +41,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 0
-          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines: 0
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 16853114
