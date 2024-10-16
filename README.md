@@ -23,8 +23,8 @@ Main contributor and maintainer:
 
 Other contributions:
 
+- [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Write documentation and create tests
 - [benbovy/xdggs](https://github.com/benbovy/xdggs): Co-author of the specification for DGGS data in [xarray](https://docs.xarray.dev/en/stable/)
-- [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Write Documentation
 - [JuliaRegistries/General](https://github.com/JuliaRegistries/General): Fix version compatibility of C++ libraries used in Julia packages
 - [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil): Fix binaries of the C++ project [DGGRID](https://github.com/sahrk/DGGRID)
 - [ropensci-books/targets](https://github.com/ropensci-books/targets): Fix documentation of the R project [targets](https://github.com/ropensci/targets)
