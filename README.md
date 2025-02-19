@@ -29,3 +29,4 @@ Other contributions:
 - [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil): Fix binaries of the C++ project [DGGRID](https://github.com/sahrk/DGGRID)
 - [ropensci-books/targets](https://github.com/ropensci-books/targets): Fix documentation of the R project [targets](https://github.com/ropensci/targets)
 - [JuliaIO/MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl): Fix uvw texture coordinates in obj files
+- [stac-utils/pystac-client](https://github.com/stac-utils/pystac-client): Fix documentation
