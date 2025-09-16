@@ -15,7 +15,6 @@ I'm a data scientist and full stack software engineer for satellite data 🌍 wh
 Main contributor and maintainer: 
 - [bioinformatics-leibniz-hki/DAnIEL](https://github.com/bioinformatics-leibniz-hki/DAnIEL): A webserver for fungal amplicon analysis
 - [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
-- [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Dask backend for [openEO](https://openeo.org/)
 - [danlooo/DSSG.jl](https://github.com/danlooo/DGGS.jl): Discrete Global Gridsystem in Julia
 - [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
 - [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
@@ -26,6 +25,7 @@ Other contributions:
 
 - [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Write documentation and create tests
 - [benbovy/xdggs](https://github.com/benbovy/xdggs): Co-author of the specification for DGGS data in [xarray](https://docs.xarray.dev/en/stable/)
+- [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Add process to dask backend for [openEO](https://openeo.org/)
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl): Bug Fixes
 - [JuliaRegistries/General](https://github.com/JuliaRegistries/General): Fix version compatibility of C++ libraries used in Julia packages
 - [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil): Fix binaries of the C++ project [DGGRID](https://github.com/sahrk/DGGRID)
