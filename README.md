@@ -15,7 +15,7 @@ I'm a data scientist and full stack software engineer for satellite data 🌍 wh
 Main contributor and maintainer: 
 - [bioinformatics-leibniz-hki/DAnIEL](https://github.com/bioinformatics-leibniz-hki/DAnIEL): A webserver for fungal amplicon analysis
 - [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
-- [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Dask backend for openEO
+- [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Dask backend for [openEO](https://openeo.org/)
 - [danlooo/DSSG.jl](https://github.com/danlooo/DGGS.jl): Discrete Global Gridsystem in Julia
 - [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
 - [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
