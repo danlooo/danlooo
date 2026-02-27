@@ -17,7 +17,7 @@ Main contributor and maintainer:
 - [Open-EO/openeo-julia-client](https://github.com/Open-EO/openeo-julia-client):  A Julia client for [openEO](https://openeo.org/)
 - [danlooo/DSSG.jl](https://github.com/danlooo/DGGS.jl): Discrete Global Gridsystem in Julia
 - [danlooo/correlation-workshop](https://github.com/danlooo/correlation-workshop): Workshop about correlation methods
-- [danlooo/metayaml](https://github.com/danlooo/metayaml): Attributes of files and directories stored in YAML sidecar files
+- [danlooo/pathtraits](https://github.com/danlooo/pathtraits): Attributes of files and directories stored in YAML sidecar files
 - [danlooo/spotify-datasci](https://github.com/danlooo/spotify-datasci): Predicting the genre of songs using Deep Learning
 - [danlooo/r-targets-toy-example](https://github.com/danlooo/r-targets-toy-example): Data Science example to run a workflow using R and shell commands
 
