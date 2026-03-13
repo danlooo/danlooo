@@ -23,7 +23,7 @@ Main contributor and maintainer:
 
 Other contributions:
 
-- [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Write documentation and create tests
+- [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Optimize performance, write documentation, create tests
 - [benbovy/xdggs](https://github.com/benbovy/xdggs): Co-author of the specification for DGGS data in [xarray](https://docs.xarray.dev/en/stable/)
 - [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Add process to dask backend for [openEO](https://openeo.org/)
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl): Bug Fixes
