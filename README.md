@@ -32,4 +32,5 @@ Other contributions:
 - [ropensci-books/targets](https://github.com/ropensci-books/targets): Fix documentation of the R project [targets](https://github.com/ropensci/targets)
 - [rOpenGov/eurostat](https://github.com/rOpenGov/eurostat): Update code and datasets to the newest NUTS version
 - [JuliaIO/MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl): Fix uvw texture coordinates in obj files
+- [JuliaIO/DiskArrays.jl](https://github.com/JuliaIO/DiskArrays.jl): Fix setindex on FillArray view
 - [stac-utils/pystac-client](https://github.com/stac-utils/pystac-client): Fix documentation
