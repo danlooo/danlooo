@@ -25,6 +25,7 @@ Other contributions:
 
 - [JuliaDataCubes/YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl/): Optimize performance, write documentation, create tests
 - [benbovy/xdggs](https://github.com/benbovy/xdggs): Co-author of the specification for DGGS data in [xarray](https://docs.xarray.dev/en/stable/)
+- [JuliaClimate/STAC.jl](https://github.com/JuliaClimate/STAC.jl): Bug Fixes
 - [Open-EO/openeo-processes-dask](https://github.com/Open-EO/openeo-processes-dask): Add process to dask backend for [openEO](https://openeo.org/)
 - [rafaqz/DimensionalData.jl](https://github.com/rafaqz/DimensionalData.jl): Bug Fixes
 - [JuliaRegistries/General](https://github.com/JuliaRegistries/General): Fix version compatibility of C++ libraries used in Julia packages
